@@ -1,4 +1,5 @@
-## UPDATE 2.22
+2.22
+## Change Log
 - new gui
 - added settings tab
 
