@@ -1,4 +1,4 @@
-2.22
+2.23
 ## Change Log
 - new gui
 - added settings tab
