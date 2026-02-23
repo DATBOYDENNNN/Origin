@@ -1,6 +1,6 @@
-2.23
+2.24
 ## Change Log
-- added key system
+- added key system (updated)
 - hwid locked
 
 
