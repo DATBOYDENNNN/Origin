@@ -1,7 +1,7 @@
 2.23
 ## Change Log
-- new gui
-- added settings tab
+- added key system
+- hwid locked
 
 
  98% unc coming soon..
