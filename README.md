@@ -1,7 +1,7 @@
-2.22.2
+2.22.3
 ## Change Log
-- added key system (updated)
-- hwid locked
+- key system
+- added Expiration in settings
 
 
  98% unc coming soon..
