@@ -1,4 +1,4 @@
-2.3
+2.3.1
 ## Change Log
 - Added Auto Attach
 - Added Spoofer
