@@ -1,5 +1,3 @@
-2.41
+2.42
 ## Change Log
-- Added Transparency
-- Added Button Rounding
-- fixed message error
+- Fixed Injection
