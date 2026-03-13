@@ -1,3 +1,3 @@
-2.5
+2.45
 ## Change Log
 - Fixed Injection
